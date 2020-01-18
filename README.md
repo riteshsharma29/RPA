@@ -10,7 +10,7 @@ webform in seconds. USAGE is : c:\python37\python.exe rpa_task.py <br><br>
 4) Web HTML Table extraction Using Python.zip: Using Python we can extract Multitable OR Single HTML tables from a website into an excel spreadsheet easily in a dynamic way. If there's single table then table gets extracted as table_0. If there's more than one table on the webpage then table gets extracted as table_0,table_1,table_2 so on and soforth.<br><br>
 5) Scrap_Amazon_product_RPA.zip: Using Python(Selenium) we can extract Amazon products.<br><br>
 6) reports_generation_rpa.zip: Python based RPA Example of downloading monthly sales reports for each month and creating yearly report out of it. The enclosed acme.txt contains the source link from which this tool was inspired. You need to signup "https://acme-test.uipath.com" in order to use this code. <br><br>
-
+7) find_app_xy_move.py - This script shows how to move desktop application in windows & find touch co-ordinates
 
 
 
